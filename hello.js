@@ -4,3 +4,6 @@ const a=()=>{
 const b=()=>{
     return 8
 }
+const d=()=>{
+    return "dd"
+}
