@@ -8,3 +8,6 @@ const b=()=>{
 const c=()=>{
     return 8
 }
+const d=()=>{
+    return "dd"
+}
